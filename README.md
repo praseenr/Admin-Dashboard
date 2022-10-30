@@ -28,7 +28,7 @@ Admin-Dashboard is written in Python and uses [Django](https://www.djangoproject
 
 ## Quickstart
 
-Using Docker: Deploy in 5 minutes or less using [official quickstart guide at cabotapp.com](http://cabotapp.com/qs/quickstart.html). (See also https://hub.docker.com/r/cabotapp/cabot/)
+Using Docker: Deploy in 5 minutes or less using [official quickstart guide at Admin-Dashboard.com](http://Admin-Dashboard.com/qs/quickstart.html). (See also https://hub.docker.com/r/Admin-Dashboardapp/Admin-Dashboard/)
 
 ## How it works
 
